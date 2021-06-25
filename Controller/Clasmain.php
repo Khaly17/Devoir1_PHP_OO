@@ -8,7 +8,7 @@
     $obj ->connect();
 
 
-    //$obj->ajouterPersonne($personne1);
+    //$obj->ajouterPersonne($personne);
     //$obj->afficherPersonne();
    // $objet->affDetailsPersonne();
    // $obj->modifierPersonne();

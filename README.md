@@ -17,5 +17,8 @@ Connexion email/mot de passe
 modifier une personnes
 #avoir les details d'une personne
 Quand je suis connecte sur chaque page voir le nom et le prenom
-==============================================================
-Creer une base de donnees nommee devoir1 et importer la table users dans le fichier ./Model/users.sql
+
+    #Procedure:
+
+Creer une base de donnees nommee devoir1 et importer la table users
+qui se trouve dans le fichier ./Model/users.sql
