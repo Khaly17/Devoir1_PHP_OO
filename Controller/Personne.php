@@ -12,7 +12,7 @@ class Personne{
     
 
     //Constructeur
-    public function __construct($nom, $prenom, $dateNaissance, $adresse, $email, $sexe, $password){
+    public function __construct($prenom, $nom, $dateNaissance, $adresse, $email, $sexe, $password){
         $this->nom = $nom;
         $this->prenom = $prenom;
         $this->dateNaissance = $dateNaissance;
